@@ -1,7 +1,7 @@
 <img src = "http://ForTheBadge.com/images/badges/built-with-swag.svg" alt = ".." />
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/videos/thumbnails/originals/e8/df/c3/e8dfc3dc2e3950ed14e4a9c6fa38d29f.0000000.jpg"/>
 
 <h2> / about me /</h2>
   
@@ -41,7 +41,7 @@
 
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+<a href="https://soundcloud.com/ik1gai">SoundCloud</a>
   </div>
   </div>
 
