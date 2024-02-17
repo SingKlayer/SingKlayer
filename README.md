@@ -20,6 +20,7 @@
   <img src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt = ".Net" />
   <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "CSharp" />
   <img src = "https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt = "Unity" />
+  <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt = "Java" />
   
   
 - <h4> extras 🌟</h4>
