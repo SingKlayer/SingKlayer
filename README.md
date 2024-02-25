@@ -40,8 +40,8 @@
 <a href="https://soundcloud.com/ik1gai">SoundCloud</a>
   </div>
   </div>
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SingKlayer&layout=compact&title_color=ffffff&icon_color=ffffff&bg_color=000000&text_color=ffffff'/>
+  
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SingKlayer&layout=pie&title_color=ffffff&icon_color=ffffff&bg_color=000000&text_color=ffffff'/>
 
 
 ------
