@@ -1,15 +1,15 @@
 <img src = "http://ForTheBadge.com/images/badges/built-with-swag.svg" alt = ".." />
 <div>
 
-<img align="right" width="400" alt="gojo" src="https://i.pinimg.com/originals/48/ea/52/48ea5232a98093fbb70f0f91ee14c77c.jpg"/>
+<img align="right" width="400" alt="Sonny Boy Astronaut Scene" src="https://i.pinimg.com/originals/48/ea/52/48ea5232a98093fbb70f0f91ee14c77c.jpg"/>
 
-<h1> / about me /</h1>
+ **/ ABOUT ME /**
   
 - ⭐ currently working on **GameDev** and **WebSites**
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
   
-<h2> / more stuff! / </h2>
+**/ MORE STUFF! /** 
   
 - <h4> skills 📚</h4>
   <img src = "https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "CSharp" />
