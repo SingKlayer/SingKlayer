@@ -1,7 +1,7 @@
 <img src = "http://ForTheBadge.com/images/badges/built-with-swag.svg" alt = ".." />
 <div>
 
-<img align="right" width="400" alt="gojo" src="https://i.pinimg.com/videos/thumbnails/originals/e8/df/c3/e8dfc3dc2e3950ed14e4a9c6fa38d29f.0000000.jpg"/>
+<img align="right" width="400" alt="gojo" src="https://i.pinimg.com/originals/48/ea/52/48ea5232a98093fbb70f0f91ee14c77c.jpg"/>
 
 <h1> / about me /</h1>
   
