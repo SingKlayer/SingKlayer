@@ -3,7 +3,7 @@
 
 <img align="right" width="400" alt="gojo" src="https://i.pinimg.com/videos/thumbnails/originals/e8/df/c3/e8dfc3dc2e3950ed14e4a9c6fa38d29f.0000000.jpg"/>
 
-<h2> / about me /</h2>
+<h1> / about me /</h1>
   
 - ⭐ currently working on **GameDev** and **WebSites**
 - 💀 mostly working on **private repositories**
